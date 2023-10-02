@@ -1,0 +1,9 @@
+footer {
+  position: absolute;
+  bottom: 0;
+}
+
+.dark-mode {
+  background-color: rgb(50, 50, 50);
+  color: white;
+}
